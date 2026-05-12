@@ -30,19 +30,19 @@ A simple and efficient Fire Alarm System built using Arduino UNO, a Flame Sensor
 |------------------|-------------|
 | VCC              | 5V          |
 | GND              | GND         |
-| OUT              | D2          |
+| A0               |   A0        |
 
 ### Buzzer
 | Buzzer Pin | Arduino UNO |
 |------------|-------------|
-| +          | D8          |
+| +          | D11         |
 | -          | GND         |
 
 ### LED
 | LED Pin | Arduino UNO |
 |----------|-------------|
-| +        | D7 (through 220Ω resistor) |
-| -        | GND |
+| +        | D13         |
+| -        | GND         |
 
 ---
 
