@@ -14,10 +14,9 @@ A simple and efficient Fire Alarm System built using Arduino UNO, a Flame Sensor
 
 ## 🛠️ Components Required
 - Arduino UNO
-- Flame Sensor Module
+- MQ2 Sensor Module
 - Buzzer
 - LED
-- 220Ω Resistor
 - Breadboard
 - Jumper Wires
 
@@ -45,18 +44,6 @@ A simple and efficient Fire Alarm System built using Arduino UNO, a Flame Sensor
 | -        | GND         |
 
 ---
-
-## ▶️ How to Run the Project
-1. Open Tinkercad Circuits
-2. Create a new circuit
-3. Add all required components
-4. Connect components as per the circuit diagram
-5. Copy and paste the Arduino code
-6. Click **Start Simulation**
-7. Test the flame sensor
-
----
-
 ## ⚙️ Working Principle
 - The flame sensor continuously checks for fire or flame.
 - When fire is detected:
